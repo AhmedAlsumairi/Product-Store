@@ -1,0 +1,7 @@
+ID, NAME, DESCRIPTION, PRICE, TYPE,
+4, f, sds, 44.0, 444.0, 456.0, D
+5, dvdv, sdf, 34.0, 445.0, 34.0, D
+5, jj, sd, 44.0, 33.0, 34.0, D
+6, kkj, ffj, 45.0, 54.0, W
+8, fd, vcvc, 45.0, 56.0, W
+9, sd, sdd, 43.0, 34.0, W
